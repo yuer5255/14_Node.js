@@ -1,8 +1,6 @@
 .idea
 node_modules
-mongogb
-DatabaseTools.zip
-filetypesman.zip
-mysql.zip
-node-v8.9.1-x64.msi
-Nodejs_1707_all.rar
+mongodb
+*.zip
+*.msi
+*.rar
